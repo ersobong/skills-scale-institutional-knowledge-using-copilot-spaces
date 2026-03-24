@@ -20,6 +20,12 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+**Common supporting roles** (see [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full details):
+- Scrum Master: facilitates Agile ceremonies, removes impediments, coaches the team.
+- UX/UI Designer: designs user interfaces, conducts usability research, ensures design fidelity.
+- Data Analyst: tracks metrics, builds dashboards, informs data-driven decisions.
+- Stakeholder Champion: maintains stakeholder alignment and escalates misalignment early.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
